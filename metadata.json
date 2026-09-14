@@ -1,0 +1,7 @@
+{
+  "name": "Grumpy - Vulcanul Emoțiilor",
+  "description": "Aplicație educațională și poveste interactivă pentru copii de 4-7 ani: Grumpy, vulcanul care nu știa să se supere frumos. Experiment practic, simulator de lavă, ghid pentru părinți și jocuri de reglare emoțională.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
